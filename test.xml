@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Slides>
+	<Slide>
+		<Shape ConnectionSiteCount="different_value(4)and(5)"/>
+	</Slide>
+</Slides>
